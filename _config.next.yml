@@ -7,4 +7,8 @@ menu:
   tags: /tags/ || fa fa-tags
   categories: /categories/ || fa fa-th
   archives: /archives/ || fa fa-archive
-sidebar: left
+post_meta:
+  updated_at:
+    another_day: true
+toc:
+  enable: true
