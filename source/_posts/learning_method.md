@@ -1,6 +1,6 @@
 ---
 title: learning_method
-tags: study guide 
+tags: methodology 
 ---
 
 Learning process is only effective through the lifecycle:
