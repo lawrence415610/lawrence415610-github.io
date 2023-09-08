@@ -8,7 +8,9 @@ menu:
   categories: /categories/ || fa fa-th
   archives: /archives/ || fa fa-archive
 post_meta:
+  creaated_at: true
   updated_at:
+    enable: true
     another_day: true
 toc:
   enable: true
