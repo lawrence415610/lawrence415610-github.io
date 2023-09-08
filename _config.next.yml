@@ -11,6 +11,5 @@ post_meta:
   creaated_at: true
   updated_at:
     enable: true
-    another_day: true
 toc:
   enable: true
