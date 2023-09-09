@@ -1,6 +1,7 @@
 ---
 title: learning_method
 tags: methodology 
+date: 2023-09-02 08:08:00
 ---
 
 Learning process is only effective through the lifecycle:

@@ -1,6 +1,7 @@
 ---
 title: Java_primarytype 
 tags: Java 
+date: 2023-09-05 08:08:00
 ---
 
 ```java
