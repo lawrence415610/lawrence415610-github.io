@@ -19,3 +19,4 @@ tags: wordpress
 - EMD: exact match domain, you put the keyword in your domain name, that may be noticed by google and be penalized, you should use a catchy brand name
 - registrar: the company that registers your domain for you.
 - web host: the company provide disk space for your website
+- Gravatar: a globally enabled avatar that you can bind your email address with
